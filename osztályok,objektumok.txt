@@ -1,0 +1,22 @@
+Osztályok,objektum, PHP-ban
+
+tulajdonságok   (mezők,attributomók)
+metódusok   (tagfügvények)
+
+class osztalynev
+{
+    private $valami
+    public function xxx (paraméterek)
+    {
+        utasítások
+    }
+}
+
+Speciális függvények
+Konstruktor --> ez mondja meg ,hogy hogyan jöjjön létre
+    function__construct (paraméterek)
+    {
+
+    }
+
+$valtozo = new osztaly_neve (paraméterek)
